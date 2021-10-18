@@ -1,1 +1,2 @@
 # MOVIE-RECOMMENDOR-SYSTEMS
+CD AND PASTE DIRECTORY , type streamlit run app.py TO RUN
